@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(violet, rgb(170, 97, 221), rgb(82, 203, 214), rgb(83, 197, 83), rgb(213, 213, 105), orange, rgb(228, 99, 99));
+}
+.btn {
+    font-size: 50px;
+    width: 400px;
+    border-radius: 30px;
+    background-color: white;
+    font-family: 'Festive', cursive;
+    margin-bottom: 25px;
+}
+#status {
+    font-family: "Hurricane", cursive;
+}
+.heading {
+    font-family: 'Hurricane', cursive;
+    font-weight: bold;
+    font-size: 60px;
+    text-shadow: 3px 3px 3px white;
+}
+canvas {
+    border: 3px 3px white;
+    border-radius: 20px;
+}
+.a {
+    background-color: black;
+    color: white;
+}
+#status {
+    background-color: greenyellow;
+    color: white;
+    width: 173px;
+}
